@@ -1,0 +1,5 @@
+
+To run this project you have to run both client and server folders.
+
+client : use npm run dev 
+server : use npm run dev
