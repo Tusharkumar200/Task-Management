@@ -15,7 +15,7 @@ function App() {
       <Route path='/tasks' element={<CommonLayout />}>
           <Route path='list' element={<TaskPage />}/>
           <Route path='scrum-board' element={<ScrumBoardPage />}/>
-
+          
       </Route>
     </Routes>
   )
